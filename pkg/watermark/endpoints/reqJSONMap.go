@@ -29,3 +29,19 @@ type WatermarkResponse struct {
 	Code int    `json:"code"`
 	Err  string `json:"err"`
 }
+
+type AddDocumentRequest struct {
+	Document *internal.Document `json:"document"`
+}
+
+type AddDocumentResponse struct {
+	TicketID string `json:"ticketID"`
+	Err      string `json:"err,omitempty"`
+}
+
+type ServiceStatusRequest struct{}
+
+type ServiceStatusResponse struct {
+	Code int    `json:"status"`
+	Err  string `json:"err,omitempty"`
+}
