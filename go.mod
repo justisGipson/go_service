@@ -1,4 +1,4 @@
-module github.com/justisGipson/go-service
+module github.com/justisGipson/go_service
 
 go 1.17
 

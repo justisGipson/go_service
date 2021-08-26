@@ -6,7 +6,7 @@ import (
 	"net/http"
 	"os"
 
-	"github.com/justisGipson/go-service/internal"
+	"github.com/justisGipson/go_service/internal"
 
 	"github.com/go-kit/kit/log"
 	"github.com/lithammer/shortuuid/v3"

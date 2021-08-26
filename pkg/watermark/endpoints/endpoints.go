@@ -6,8 +6,8 @@ import (
 	"log"
 	"os"
 
-	"github.com/justisGipson/go-service/internal"
-	"github.com/justisGipson/go-service/pkg/watermark"
+	"github.com/justisGipson/go_service/internal"
+	"github.com/justisGipson/go_service/pkg/watermark"
 
 	"github.com/go-kit/kit/endpoint"
 	"github.com/go-kit/kit/log"

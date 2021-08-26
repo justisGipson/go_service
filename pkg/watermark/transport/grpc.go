@@ -7,9 +7,9 @@ package transport
 import (
 	"context"
 
-	"github.com/justisGipson/go-service/api/vi/pb/watermark"
-	"github.com/justisGipson/go-service/internal"
-	"github.com/justisGipson/go-service/pkg/watermark/endpoints"
+	"github.com/justisGipson/go_service/api/vi/pb/watermark"
+	"github.com/justisGipson/go_service/internal"
+	"github.com/justisGipson/go_service/pkg/watermark/endpoints"
 
 	grpcTransport "github.com/go-kit/kit/transport/grpc"
 )

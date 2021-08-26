@@ -3,7 +3,7 @@ package watermark
 import (
 	"context"
 
-	"github.com/justisGipson/go-service/internal"
+	"github.com/justisGipson/go_service/internal"
 )
 
 // Contexts enable the microservices to handle the multiple concurrent requests

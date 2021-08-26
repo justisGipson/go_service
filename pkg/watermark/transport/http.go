@@ -9,8 +9,8 @@ import (
 	"net/http"
 	"os"
 
-	"github.com/justisGipson/go-service/internal/util"
-	"github.com/justisGipson/go-service/pkg/watermark/endpoints"
+	"github.com/justisGipson/go_service/internal/util"
+	"github.com/justisGipson/go_service/pkg/watermark/endpoints"
 
 	"github.com/go-kit/kit/log"
 	httpTransport "github.com/go-kit/kit/transport/http"

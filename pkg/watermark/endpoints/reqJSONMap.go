@@ -1,6 +1,6 @@
 package endpoints
 
-import "github.com/justisGipson/go-service/internal"
+import "github.com/justisGipson/go_service/internal"
 
 type GetRequest struct {
 	Filters []internal.Filter `json:"filters,omitempty"`
