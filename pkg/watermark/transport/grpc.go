@@ -7,7 +7,7 @@ package transport
 import (
 	"context"
 
-	"github.com/justisGipson/go_service/api/vi/pb/watermark"
+	"github.com/justisGipson/go_service/api/v1/pb/watermark"
 	"github.com/justisGipson/go_service/internal"
 	"github.com/justisGipson/go_service/pkg/watermark/endpoints"
 
